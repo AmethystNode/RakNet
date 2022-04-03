@@ -1,0 +1,23 @@
+{
+  "name": "raknet",
+  "version": "1.0.1",
+  "description": "raknet implementation in node.js",
+  "main": "server/RakNetServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmethystNode/RakNet.git"
+  },
+  "keywords": [
+    "raknet",
+    "raknet-node",
+    "amethystnode"
+  ],
+  "author": "AmethystNodeTeam",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "amethystnode-binarystream": "git+https://github.com/AmethystNode/AmethystNode-BinaryStream.git"
+  }
+}
